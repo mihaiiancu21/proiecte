@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Ex13.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  find_median.cpp
+D:\Mediu invatare Mihai\c++\Ex13\find_median.cpp(73,19): warning C4101: 'm': unreferenced local variable
+  Ex13.vcxproj -> D:\Mediu invatare Mihai\c++\Ex13\Debug\Find Median.exe
